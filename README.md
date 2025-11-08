@@ -1,4 +1,4 @@
-# investments-fe
+# subscriptions
 
 ## Project setup
 ```
